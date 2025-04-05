@@ -62,3 +62,21 @@ h1{
     box-shadow:2px 2px 20px rgb(40, 164, 221),2px 2px 20px rgb(242, 38, 232);
    
 }
+@media (max-width: 768px) {
+    #logo{
+        width: 50%;
+        height: 50%;
+    }
+    h1{
+        font-size: 20px;
+    }
+    #name{
+        font-size: 20px;
+    }
+    #va{
+        font-size: 20px;
+    }
+    #btn{
+        width:100%;
+        font-size:15px;
+    }
