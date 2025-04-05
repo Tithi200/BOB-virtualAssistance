@@ -43,8 +43,7 @@ h1{
 }
 #btn{
     width:50%;
-    /*background-color:linear-gradient(to right, #280fdf, #d514cb, #43ec40, #280fdf);*/
-    background-color: rgb(90, 231, 181);
+    background-image:linear-gradient(to right, #280fdf, #d514cb, #43ec40, #280fdf);
     padding: 10px;
     display:flex;
     align-items:center;
